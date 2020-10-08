@@ -1,0 +1,14 @@
+{
+  "name": "css-tooling",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "Andreas Paech",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  },
+  "description": ""
+}

@@ -1,0 +1,24 @@
+body {
+    font-size: 20px;
+}
+
+li {
+    font-weight: bolder;
+    border: 5px dashed #ff0000;
+    margin: 20px;
+    margin: 30px 40px 50x 0;
+    margin: 30px 10px;
+    margin: 30px 10px 50px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+p {
+    font-style: italic;
+}
+
+.p2 {
+    color: hotpink;
+}
