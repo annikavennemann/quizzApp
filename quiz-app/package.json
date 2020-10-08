@@ -6,9 +6,10 @@
     "start": "parcel index.html"
   },
   "author": "Andreas Paech",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "parcel": "^1.12.4"
   },
+  "devDependencies": {},
   "description": ""
 }
