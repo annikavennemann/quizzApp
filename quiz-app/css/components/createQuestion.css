@@ -1,0 +1,26 @@
+.createQuestion__block {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px 30px;
+}
+
+.text {
+    align-content: center;
+    margin-bottom: 10px;
+}
+
+.createQuestion__label {
+    margin-bottom: 10px;
+}
+
+.createQuestion__tag {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.createQuestion__submit {
+    margin: 20px 90px;
+    padding: 12px;
+    background-color: rgba(235, 248, 255);
+}
