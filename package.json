@@ -1,0 +1,23 @@
+{
+  "name": "css-tooling",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "Andreas Paech",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  },
+  "devDependencies": {},
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annikavennemann/quizzApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/annikavennemann/quizzApp/issues"
+  },
+  "homepage": "https://github.com/annikavennemann/quizzApp#readme"
+}

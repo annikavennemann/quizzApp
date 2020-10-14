@@ -19,8 +19,9 @@ main {
 .question-card__bookmark {
     position: absolute;
     top: -1em;
-    right: 1em;
+    right: 0.6em;
     padding: 0.5em;
+    margin:0px;
     width: 30px;
     border: 1px solid #000;
     background-color: white;
@@ -28,8 +29,14 @@ main {
 }
 
 .question-card__bookmark--selected {
+    position: absolute;
+    top: -1em;
+    right: 0.6em;
+    padding: 0.5em;
+    width: 30px;
     background-color: #000;
     color: #fff;
+    text-align: center;
 }
 
 .question-card h2, /* NOT BEM* */
