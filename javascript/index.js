@@ -1,11 +1,7 @@
-import toggle from './card-toggle-answer'
+import toggle from './bookmark'
 
 document
-    .querySelectorAll('.question-card__button') // bookmark-class
+    .querySelectorAll('.question-card__bookmark') 
     .forEach(element => {
         element.addEventListener('click', toggle)
     })
-
-
-{/* <p class="question-card__answer question-card__answer--hidden">This is the hidden answer</p>  --- zeile nach bookmark*/}
-    
