@@ -72,3 +72,13 @@ main {
     background-color: #efefef;
     border-radius: 5px;
 }
+
+.question-card__answer {
+    margin-left: 1em;
+    font-size: 0.9em;
+    font-style: italic;
+}
+
+.question-card__answer--hidden {
+    display: none;
+}
